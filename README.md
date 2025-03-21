@@ -1,6 +1,6 @@
 # flutterlab-3
 My classmate dipanshu helped me in this lab and i also took help form Online sources.
-
+i updated the coding of main.dart file and pubspec.yaml.
 The automated image rotation technique of this Android app rotates graphics every ten seconds. Additionally, it has a Pause/Resume button that lets users adjust the rotation.
 Features include a 10-second automatic image rotation. To control visual transitions, use the Pause and Resume features. For fluid picture changes, use a smooth fade-in animation.
 
